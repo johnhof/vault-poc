@@ -1,0 +1,23 @@
+{
+  "name": "vault-poc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnhof/vault-poc.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnhof/vault-poc/issues"
+  },
+  "homepage": "https://github.com/johnhof/vault-poc#readme",
+  "dependencies": {
+    "node-vault": "^0.5.1",
+  }
+}

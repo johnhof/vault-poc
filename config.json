@@ -1,0 +1,14 @@
+{
+  "vault": {
+    "apiVersion": "v1",
+    "endpoint": "http://127.0.0.1:8200",
+    "token": "1234"
+  },
+  "audit": {
+     "name": "testlog",
+      "type": "file",
+      "options": {
+        "path": "/tmp/logs/test.log" 
+      }
+  }
+}
